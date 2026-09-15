@@ -1,0 +1,6 @@
+# CodeOrbit Tech AI Internship - Task 3: Image Classification
+# Pretrained Model: MobileNetV2 (ImageNet-1K)
+
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.5.0
