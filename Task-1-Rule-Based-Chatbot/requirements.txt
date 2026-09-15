@@ -1,0 +1,4 @@
+# CodeOrbit Tech AI Internship - Task 1: Rule-Based Chatbot
+# This project uses standard Python libraries (built-in).
+# No external third-party packages are required.
+# Minimum Python version: Python 3.8+
