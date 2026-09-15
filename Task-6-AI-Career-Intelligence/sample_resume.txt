@@ -1,0 +1,39 @@
+Aarav Sharma
+Email: aarav.sharma2025@email.com | Phone: +91 98765 43210 | LinkedIn: linkedin.com/in/aarav-sharma-tech | GitHub: github.com/aarav-sharma
+
+EDUCATION
+Bachelor of Technology (B.Tech) in Computer Science & Engineering
+Apex Institute of Technology, CGPA: 8.6 / 10.0 (Expected Graduation: May 2025)
+Relevant Coursework: Data Structures, Algorithms, Database Management, Object Oriented Programming, Machine Learning, Statistics.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, Java
+- Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- AI & Machine Learning: Machine Learning, Data Analysis, Data Visualization, Supervised Learning, Model Evaluation
+- Developer Tools: Git, GitHub, VS Code, Jupyter Notebook, Linux
+- Core Concepts: OOP, Data Structures, Algorithms, REST API
+
+PROJECTS
+1. Predictive Customer Churn System (Machine Learning & Data Analysis)
+- Developed an end-to-end classification pipeline using Python, Pandas, and Scikit-learn to forecast customer turnover with 88% accuracy.
+- Conducted exploratory data analysis and feature engineering on a 15,000-record dataset using NumPy and Matplotlib.
+- Hosted open-source code on GitHub with comprehensive modular architecture and documentation.
+
+2. Retail Sales Performance Dashboard (Python & SQL)
+- Built automated data extraction scripts connecting PostgreSQL databases to clean and process 50,000+ transaction records.
+- Created interactive visualization reports utilizing Python, Pandas, and SQL queries to identify regional revenue drivers.
+
+3. Algorithm Visualizer & CS Portfolio
+- Implemented sorting and pathfinding algorithms with modular Python code illustrating time/space complexities.
+
+WORK EXPERIENCE / INTERNSHIPS
+Artificial Intelligence & Machine Learning Intern
+CodeOrbit Tech | June 2024 – August 2024
+- Assisted in building data cleaning scripts and feature selection pipelines for client classification tasks using Python and Pandas.
+- Collaborated in an Agile development environment, performing code reviews and tracking issues via Git and GitHub.
+- Evaluated model hyperparameters with Scikit-learn, improving baseline precision by 6%.
+
+CERTIFICATIONS & ACHIEVEMENTS
+- Machine Learning Specialization – Coursera (DeepLearning.AI)
+- Data Science for Engineers – NPTEL Certification (Elite + Silver)
+- Solved 200+ Data Structures & Algorithm problems on LeetCode and HackerRank

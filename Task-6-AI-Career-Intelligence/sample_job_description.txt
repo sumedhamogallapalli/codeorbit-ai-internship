@@ -1,0 +1,23 @@
+Job Title: Junior Data Scientist / Data Analyst
+Company: NexaTech Analytics Solutions
+Location: Remote / Hybrid
+
+Role Overview:
+We are seeking an enthusiastic Junior Data Scientist / Data Analyst to join our growing AI and Data Intelligence team. You will work alongside senior engineers to clean structured datasets, design predictive machine learning models, and build visual dashboards that empower stakeholders to make data-driven decisions.
+
+Key Responsibilities:
+- Extract, clean, and preprocess multi-source tabular data utilizing Python, SQL, and Pandas.
+- Develop, evaluate, and fine-tune supervised machine learning models using Scikit-learn and NumPy.
+- Design executive business intelligence dashboards and data visualizations in Power BI and Tableau.
+- Perform statistical hypothesis testing, descriptive statistics, and trend analysis.
+- Maintain version control for all analytical codebases using Git and GitHub.
+- Collaborate with software engineers to integrate analytics models into production environments.
+
+Required Qualifications & Skills:
+- Bachelor's degree in Computer Science, Data Science, Statistics, or related technical field (B.Tech / B.E. / B.S.).
+- Strong proficiency in Python and SQL for data querying and analysis.
+- Hands-on experience with Pandas, NumPy, and Scikit-learn for machine learning workflows.
+- Practical familiarity with data visualization tools: Power BI, Tableau, or Matplotlib.
+- Solid foundational understanding of Statistics, Probability, and exploratory data analysis.
+- Demonstrated experience with Git, GitHub, and collaborative software development practices.
+- Excellent problem-solving skills and passion for building AI-driven solutions.
