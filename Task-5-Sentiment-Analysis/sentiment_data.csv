@@ -1,0 +1,31 @@
+text,sentiment
+"The product is great and the quality is amazing",Positive
+"I love this movie it was brilliant and great",Positive
+"Excellent customer service and very good fast delivery",Positive
+"The quality is outstanding and works wonderful",Positive
+"Highly recommended, excellent value and great purchase",Positive
+"A wonderful experience, love this good product",Positive
+"Great clarity, excellent sound and amazing performance",Positive
+"One of the best products I have ever used, very good",Positive
+"Fantastic performance, best quality and love the design",Positive
+"Very satisfied with this purchase, works great and perfect",Positive
+"Terrible experience, the item was bad and broken",Negative
+"The movie was terrible and a complete waste of time",Negative
+"Poor battery life, very bad and useless product",Negative
+"Customer support was rude, terrible and unhelpful",Negative
+"Very disappointed, bad quality and waste of money",Negative
+"Worst purchase ever, poor quality and stopped working",Negative
+"The product is bad, completely broken and useless",Negative
+"Delivery was bad and package was terrible and crushed",Negative
+"Overpriced, poor service and worst experience ever",Negative
+"Terrible software, very bad bugs and crashes constantly",Negative
+"The product arrived on time and package was standard",Neutral
+"The movie was average, neither good nor bad, just okay",Neutral
+"It works as expected, normal and ordinary item",Neutral
+"The size is standard and matches the normal chart",Neutral
+"Received the item yesterday in standard average condition",Neutral
+"The smartphone has average features and normal battery",Neutral
+"It is an okay product, performs normal basic functions",Neutral
+"The color is okay and condition is standard",Neutral
+"Normal delivery time and standard acceptable quality",Neutral
+"The battery lasts for one day with moderate average usage",Neutral
